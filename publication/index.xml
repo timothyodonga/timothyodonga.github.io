@@ -5,12 +5,28 @@
     <link>https://timothyodonga.github.io/publication/</link>
       <atom:link href="https://timothyodonga.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://timothyodonga.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://timothyodonga.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Fairness of classifiers across skin tones in dermatology</title>
+      <link>https://timothyodonga.github.io/publication/kinyanjui-2020-fairness/</link>
+      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://timothyodonga.github.io/publication/kinyanjui-2020-fairness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating skin tone and effects on classification performance in dermatology datasets</title>
+      <link>https://timothyodonga.github.io/publication/kinyanjui-2019-estimating/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://timothyodonga.github.io/publication/kinyanjui-2019-estimating/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
