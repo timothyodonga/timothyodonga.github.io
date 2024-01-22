@@ -121,7 +121,7 @@ highlight_name: true
 ---
 Timothy is a first year PhD student in the Computer Science & Informatics program at Emory University, and is a member of the ViTAL lab group. 
 
-His research interests broadly encompass machine learning, and computer vision and focus on building trustworthy and reliable systems to assist humans. Some research areas of interest include:
+The goal of his research is to leverage current breakthroughs in computing to tackle important problems in health research and increase acccess to marginalized communities. His research interests broadly encompass machine learning, computer vision, and signal processing with a focus on buildding trustworthy, reliable and accessible systems to assist humans in high-stakes applications such as clinical settings. Some research sub-areas of interest include:
 
 1. Algorithmic fairness, model explainability, uncertainty quantification, and robustness to dataset shift.
 2. Efficient algorithms for resource constrained settings such as scarcity of well curated data, limited compute resources.
