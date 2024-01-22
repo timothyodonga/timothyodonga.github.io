@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,22 +29,22 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Computer Vision
+  - Statistical Signal Processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Electrical and Computer Engineering
+      institution: Carnegie Mellon University
+      year: 2019
+    - course: BSc in Electrical Engineering
+      institution: University of Southern California
+      year: 2016
+    - course: BSc in Physics
+      institution: Gordon College
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,21 +94,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=ZpF3MmcAAAAJ&hl
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/timothyodonga
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://ug.linkedin.com/in/timothy-odonga-11882a60
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -119,6 +119,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Timothy is a first year PhD student in the Computer Science & Informatics program at Emory University, and is a member of the ViTAL lab group. 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His research interests broadly encompass machine learning, and computer vision and focus on building trustworthy and reliable systems to assist humans. Some research areas of interest include:
+
+1. Algorithmic fairness, model explainability, uncertainty quantification, and robustness to dataset shift.
+2. Efficient algorithms for resource constrained settings such as scarcity of well curated data, limited compute resources.
 {style="text-align: justify;"}
