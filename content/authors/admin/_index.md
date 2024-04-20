@@ -30,8 +30,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Computer Vision
-  - Statistical Signal Processing
+  - Trustworthy ML
+  - ML for Health
 
 # Education to show in About widget
 education:
@@ -119,10 +119,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Timothy is a first year PhD student in the Computer Science & Informatics program at Emory University, and is a member of the ViTAL lab group. 
+Timothy is a first-year PhD student in the Computer Science & Informatics program at Emory University, currently doing a rotation with the ViTAL lab group.
 
-The goal of his research is to leverage current breakthroughs in computing to tackle important problems in health research and increase acccess to marginalized communities. His research interests broadly encompass machine learning, computer vision, and signal processing with a focus on buildding trustworthy, reliable and accessible systems to assist humans in high-stakes applications such as clinical settings. Some research sub-areas of interest include:
+His research interests broadly encompass developing novel machine learning methods that incorporate aspects of trustworthy machine learning, such as model explainability and interpretability, algorithmic fairness, and safety, into automated decision-support systems with applications in healthcare.
 
-1. Algorithmic fairness, model explainability, uncertainty quantification, and robustness to dataset shift.
-2. Efficient algorithms for resource constrained settings such as scarcity of well curated data, limited compute resources.
+The ultimate goal of his research is to leverage current breakthroughs in computing to tackle important problems in healthcare research and increase access to underserved communities.
+
 {style="text-align: justify;"}

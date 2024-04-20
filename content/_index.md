@@ -239,7 +239,7 @@ sections:
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: timothy.odonga@emory.edu
-      phone: 917 618 0237
+      #phone: 917 618 0237
       #appointment_url: 'https://calendly.com'
       address:
         street: 400 Bowman Dr
