@@ -7,7 +7,7 @@ authors:
 - J. Lucas Mckay
 - Hyeokhyen Kwon
 date: '2025-01-29'
-publishDate: '2025-01-29T18:43:01 UTC'
+publishDate: '2025-01-29T18:43:01Z'
 publication_types: ["article"]
 publication: '*arXiv preprint arXiv:2502.09626'
 ---
