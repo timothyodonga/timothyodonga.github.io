@@ -50,39 +50,21 @@ sections:
   #     username: admin
   #   design:
   #     columns: '1'
-  - block: experience
+  - block: markdown
+    id: news
     content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Data Scientist
-          company: Dalberg Data Insights
-          company_url: ''
-          # company_logo: org-gc
-          # location: California
-          date_start: '2021-01-01'
-          date_end: '2023-06-01'
-          # description: |2-
-          #     Responsibilities include:
-
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-        - title: Research Intern
-          company: IBM Research
-          company_url: ''
-          # company_logo: org-x
-          # location: California
-          date_start: '2019-06-01'
-          date_end: '2019-08-31'
-          # description: Taught electronic engineering and researched semiconductor physics.
+      title: News
+      subtitle: ''
+      text: |-
+        - **May 2026:** The abstract for "An Explainable Hierarchical Self-Attention based Approach for Tremor Detection in the Time Domain" was accepted for poster presentation at AMIA 2026 Annual Symposium.
+        - **Apr 2026:** Released revised preprint for the Fair FOG project; under review at European Journal of Neuroscience.
+        - **November 2025:** Poster presentation at AMIA 2025 Annual Symposium in Atlanta, Georgia.
+        - **June 2025:** Poster presentation at the International Consortium for Freezing of Gait in Atlanta, Georgia.
+        - **May 2025:** The abstract for "On the Bias, Fairness and Bias Mitigation for a Wearable-based Freezing of Gait Detection in Parkinson's Disease" was accepted for poster presentation at AMIA 2025 Annual Symposium.
+        - **September 2024:** Poster presentation at the Wearable Innovations for Health Equity Workshop in Atlanta, Georgia.
+        - **June 2024:** Poster presentation at Gait and Clinical Movement Analysis Society (GCMAS) annula conference in Atlanta, Georgia.
+        - **August 2023:** Started my PhD in the Computer Science and Informatics program at Emory University.
+        
     design:
       columns: '2'
   # - block: accomplishments
@@ -230,6 +212,41 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Data Scientist
+          company: Dalberg Data Insights
+          company_url: ''
+          # company_logo: org-gc
+          # location: California
+          date_start: '2021-01-01'
+          date_end: '2023-06-01'
+          # description: |2-
+          #     Responsibilities include:
+
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+        - title: Research Intern
+          company: IBM Research
+          company_url: ''
+          # company_logo: org-x
+          # location: California
+          date_start: '2019-06-01'
+          date_end: '2019-08-31'
+          # description: Taught electronic engineering and researched semiconductor physics.
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:

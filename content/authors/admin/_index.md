@@ -119,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Timothy is a first-year PhD student in the Computer Science & Informatics program at Emory University, currently doing a rotation with the ViTAL lab group.
+Timothy is a third year PhD student in the Computer Science & Informatics program at Emory University. 
 
 His research interests broadly encompass developing novel machine learning methods that incorporate aspects of trustworthy machine learning, such as model explainability and interpretability, algorithmic fairness, and safety, into automated decision-support systems with applications in healthcare.
 
