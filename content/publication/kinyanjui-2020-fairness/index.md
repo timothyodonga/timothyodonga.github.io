@@ -14,4 +14,5 @@ publication_types:
 - paper-conference
 publication: '*International Conference on Medical Image Computing and Computer-Assisted
   Intervention*'
+url_pdf: 'https://link.springer.com/chapter/10.1007/978-3-030-59725-2_31'
 ---

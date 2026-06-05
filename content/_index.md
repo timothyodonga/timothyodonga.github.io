@@ -56,6 +56,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
+        - **May 2026:** New preprint: [An Explainable Hierarchical Self-Attention based Approach for Tremor Detection in the Time Domain.](https://arxiv.org/abs/2606.00461)
         - **May 2026:** The abstract for "An Explainable Hierarchical Self-Attention based Approach for Tremor Detection in the Time Domain" was accepted for poster presentation at AMIA 2026 Annual Symposium.
         - **Apr 2026:** Released revised preprint for the Fair FOG project; under review at European Journal of Neuroscience.
         - **November 2025:** Poster presentation at AMIA 2025 Annual Symposium in Atlanta, Georgia.
